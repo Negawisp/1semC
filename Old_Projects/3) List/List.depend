@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1510775335 source:/home/negawisp/Projects/List/main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1510775242 /home/negawisp/Projects/List/list.h
+	<stdlib.h>
+	<stdio.h>
+
+1510089358 source:/home/negawisp/Projects/List/src/list.cpp
+	"list.h"
+
+1510093864 /home/negawisp/Projects/List/include/list.h
+	<stdlib.h>
+	<stdio.h>
+

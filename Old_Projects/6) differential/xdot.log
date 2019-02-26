@@ -1,0 +1,40 @@
+
+(xdot:11359): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:11359): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:11359): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:11359): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:11359): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:11359): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:11359): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11359): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11359): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:11359): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.
+
+(xdot:11397): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: not a number
+
+(xdot:11397): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:23:18: Expected a string.
+
+(xdot:11397): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:10: not a number
+
+(xdot:11397): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:815:24: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(xdot:11397): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: not a number
+
+(xdot:11397): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1953:14: Expected a string.
+
+(xdot:11397): Gtk-WARNING **: Theme parsing error: nautilus.css:50:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11397): Gtk-WARNING **: Theme parsing error: nautilus.css:51:71: Using one color stop with linear-gradient() is deprecated.
+
+(xdot:11397): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: not a number
+
+(xdot:11397): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:252:14: Expected a string.

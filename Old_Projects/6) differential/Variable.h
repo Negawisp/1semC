@@ -1,0 +1,7 @@
+#ifndef VARIABLE_H_INCLUDED
+#define VARIABLE_H_INCLUDED
+
+//A part of
+
+
+#endif // VARIABLE_H_INCLUDED

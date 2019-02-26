@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510778045 source:/home/negawisp/Projects/Akinator/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+	"Akinator.h"
+
+1510772460 /home/negawisp/Projects/Akinator/tree.h
+	<string.h>
+	<stdlib.h>
+
+1510778048 /home/negawisp/Projects/Akinator/Akinator.h
+

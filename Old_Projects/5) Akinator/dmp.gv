@@ -1,0 +1,191 @@
+digraph G {
+Nodec4806700
+[shape = record, color = black,  label = "{ <adr> MyZH4uHA  |  <yes> YES | <no> NO}"];
+Nodec4806700 : <yes> -> Nodec4806e90 : <adr> [color = green];
+Nodec4806700 : <no> -> Nodec4806bf0 : <adr> [color = blue];
+Nodec4806bf0
+[shape = record, color = black,  label = "{ <adr> 3JlA9  |  <yes> YES | <no> NO}"];
+Nodec4806bf0 : <yes> -> Nodec4807ff0 : <adr> [color = green];
+Nodec4806bf0 : <no> -> Nodec48070e0 : <adr> [color = blue];
+Nodec48070e0
+[shape = record, color = black,  label = "{ <adr> BEDET_PHu3KyJlbTyPy  |  <yes> YES | <no> NO}"];
+Nodec48070e0 : <yes> -> Nodec4807830 : <adr> [color = green];
+Nodec48070e0 : <no> -> Nodec48075d0 : <adr> [color = blue];
+Nodec48075d0
+[shape = record, color = black,  label = "{ <adr> r0T0BuT_BCe_CAMOE_BKyCHOE!  |  <yes> YES | <no> NO}"];
+Nodec48075d0 : <yes> -> Nodec4807d60 : <adr> [color = green];
+Nodec48075d0 : <no> -> Nodec4807ac0 : <adr> [color = blue];
+Nodec4807ac0
+[shape = record, color = black,  label = "{ <adr> JlETAJlA_B_KOCMOC  |  <yes> YES | <no> NO}"];
+Nodec4807ac0 : <yes> -> Nodec4807c10 : <adr> [color = green];
+Nodec4807ac0 : <no> -> Nodec4807fb0 : <adr> [color = blue];
+Nodec4807fb0
+[shape = record, color = black,  label = "{ <adr> n  |  <yes> YES | <no> NO}"];
+Nodec4807fb0 : <yes> -> Nodec48085f0 : <adr> [color = green];
+Nodec4807fb0 : <no> -> Nodec48084a0 : <adr> [color = blue];
+Nodec48084a0
+[shape = record, color = green,  label = "{ <adr> II0JlT0PAIIIKA  |  <yes> YES | <no> NO}"];
+Nodec48085f0
+[shape = record, color = green,  label = "{ <adr> n  |  <yes> YES | <no> NO}"];
+Nodec4807c10
+[shape = record, color = green,  label = "{ <adr> TEPEIIIKOBA  |  <yes> YES | <no> NO}"];
+Nodec4807d60
+[shape = record, color = black,  label = "{ <adr> lubimaya  |  <yes> YES | <no> NO}"];
+Nodec4807d60 : <yes> -> Nodec4807e60 : <adr> [color = green];
+Nodec4807d60 : <no> -> Nodec4807da0 : <adr> [color = blue];
+Nodec4807da0
+[shape = record, color = black,  label = "{ <adr> Pa60TAET_B_BurgerKing?  |  <yes> YES | <no> NO}"];
+Nodec4807da0 : <yes> -> Nodec4807e20 : <adr> [color = green];
+Nodec4807da0 : <no> -> Nodec4807de0 : <adr> [color = blue];
+Nodec4807de0
+[shape = record, color = green,  label = "{ <adr> 6A6yJl9_:3  |  <yes> YES | <no> NO}"];
+Nodec4807e20
+[shape = record, color = green,  label = "{ <adr> IIoBAP_u3_BurgerKing  |  <yes> YES | <no> NO}"];
+Nodec4807e60
+[shape = record, color = green,  label = "{ <adr> mama  |  <yes> YES | <no> NO}"];
+Nodec4807830
+[shape = record, color = green,  label = "{ <adr> AJluCA_BJlAguMuP0BHA  |  <yes> YES | <no> NO}"];
+Nodec4807ff0
+[shape = record, color = black,  label = "{ <adr> CB93AHA_C_PHu3uKou  |  <yes> YES | <no> NO}"];
+Nodec4807ff0 : <yes> -> Nodec4806d40 : <adr> [color = green];
+Nodec4807ff0 : <no> -> Nodec4808140 : <adr> [color = blue];
+Nodec4808140
+[shape = record, color = black,  label = "{ <adr> rABKAET  |  <yes> YES | <no> NO}"];
+Nodec4808140 : <yes> -> Nodec48082d0 : <adr> [color = green];
+Nodec4808140 : <no> -> Nodec4808290 : <adr> [color = blue];
+Nodec4808290
+[shape = record, color = green,  label = "{ <adr> uBAHOBA  |  <yes> YES | <no> NO}"];
+Nodec48082d0
+[shape = record, color = black,  label = "{ <adr> JloXMATA9  |  <yes> YES | <no> NO}"];
+Nodec48082d0 : <yes> -> Nodec4808350 : <adr> [color = green];
+Nodec48082d0 : <no> -> Nodec4808310 : <adr> [color = blue];
+Nodec4808310
+[shape = record, color = green,  label = "{ <adr> uCTOPu4KA))  |  <yes> YES | <no> NO}"];
+Nodec4808350
+[shape = record, color = green,  label = "{ <adr> Co6AKA  |  <yes> YES | <no> NO}"];
+Nodec4806d40
+[shape = record, color = green,  label = "{ <adr> 6a6KA-JlA6KA  |  <yes> YES | <no> NO}"];
+Nodec4806e90
+[shape = record, color = black,  label = "{ <adr> TBou_P0gCTBEHHuK  |  <yes> YES | <no> NO}"];
+Nodec4806e90 : <yes> -> Nodec480c770 : <adr> [color = green];
+Nodec4806e90 : <no> -> Nodec4807230 : <adr> [color = blue];
+Nodec4807230
+[shape = record, color = black,  label = "{ <adr> CB93AH C MATEMATuKOu  |  <yes> YES | <no> NO}"];
+Nodec4807230 : <yes> -> Nodec480a2f0 : <adr> [color = green];
+Nodec4807230 : <no> -> Nodec4807380 : <adr> [color = blue];
+Nodec4807380
+[shape = record, color = black,  label = "{ <adr> BegeT_PHu3KyJlbTyPy  |  <yes> YES | <no> NO}"];
+Nodec4807380 : <yes> -> Nodec480a8f0 : <adr> [color = green];
+Nodec4807380 : <no> -> Nodec4806ed0 : <adr> [color = blue];
+Nodec4806ed0
+[shape = record, color = black,  label = "{ <adr> HAIIuCAJl_KHuZHKy  |  <yes> YES | <no> NO}"];
+Nodec4806ed0 : <yes> -> Nodec480a7a0 : <adr> [color = green];
+Nodec4806ed0 : <no> -> Nodec4806f10 : <adr> [color = blue];
+Nodec4806f10
+[shape = record, color = black,  label = "{ <adr> IIpe3ugEHT  |  <yes> YES | <no> NO}"];
+Nodec4806f10 : <yes> -> Nodec480bbf0 : <adr> [color = green];
+Nodec4806f10 : <no> -> Nodec4806f50 : <adr> [color = blue];
+Nodec4806f50
+[shape = record, color = black,  label = "{ <adr> 3Jl0u  |  <yes> YES | <no> NO}"];
+Nodec4806f50 : <yes> -> Nodec480ad60 : <adr> [color = green];
+Nodec4806f50 : <no> -> Nodec4806f90 : <adr> [color = blue];
+Nodec4806f90
+[shape = record, color = black,  label = "{ <adr> ZHuBOTHOE  |  <yes> YES | <no> NO}"];
+Nodec4806f90 : <yes> -> Nodec480b800 : <adr> [color = green];
+Nodec4806f90 : <no> -> Nodec48073c0 : <adr> [color = blue];
+Nodec48073c0
+[shape = record, color = black,  label = "{ <adr> JlI06uT, KOrgA Tbl II0gT9ruBAEIIIbC9  |  <yes> YES | <no> NO}"];
+Nodec48073c0 : <yes> -> Nodec480ba60 : <adr> [color = green];
+Nodec48073c0 : <no> -> Nodec4807400 : <adr> [color = blue];
+Nodec4807400
+[shape = record, color = black,  label = "{ <adr> 0gECuT  |  <yes> YES | <no> NO}"];
+Nodec4807400 : <yes> -> Nodec480b700 : <adr> [color = green];
+Nodec4807400 : <no> -> Nodec4807440 : <adr> [color = blue];
+Nodec4807440
+[shape = record, color = black,  label = "{ <adr> BegeT_IIp0ry  |  <yes> YES | <no> NO}"];
+Nodec4807440 : <yes> -> Nodec480b5b0 : <adr> [color = green];
+Nodec4807440 : <no> -> Nodec4807480 : <adr> [color = blue];
+Nodec4807480
+[shape = record, color = black,  label = "{ <adr> Puhliy  |  <yes> YES | <no> NO}"];
+Nodec4807480 : <yes> -> Nodec480bf50 : <adr> [color = green];
+Nodec4807480 : <no> -> Nodec480be00 : <adr> [color = blue];
+Nodec480be00
+[shape = record, color = green,  label = "{ <adr> 4uBuJleB  |  <yes> YES | <no> NO}"];
+Nodec480bf50
+[shape = record, color = green,  label = "{ <adr> Karlson  |  <yes> YES | <no> NO}"];
+Nodec480b5b0
+[shape = record, color = green,  label = "{ <adr> uJlb9_Pyg0JlbF0Bu4  |  <yes> YES | <no> NO}"];
+Nodec480b700
+[shape = record, color = green,  label = "{ <adr> CTEIIyIIIuH  |  <yes> YES | <no> NO}"];
+Nodec480ba60
+[shape = record, color = black,  label = "{ <adr> JlI06uT, KOrgA Tbl II0gT9ruBAEIIIbC9  |  <yes> YES | <no> NO}"];
+Nodec480ba60 : <yes> -> Nodec480b740 : <adr> [color = green];
+Nodec480ba60 : <no> -> Nodec480bbb0 : <adr> [color = blue];
+Nodec480bbb0
+[shape = record, color = green,  label = "{ <adr> Tbl 06MAHllluK, BOT Tbl KTO!  |  <yes> YES | <no> NO}"];
+Nodec480b740
+[shape = record, color = black,  label = "{ <adr> JlI06uT, KOrgA Tbl II0gT9ruBAEIIIbC9  |  <yes> YES | <no> NO}"];
+Nodec480b740 : <yes> -> Nodec480b7c0 : <adr> [color = green];
+Nodec480b740 : <no> -> Nodec480b780 : <adr> [color = blue];
+Nodec480b780
+[shape = record, color = green,  label = "{ <adr> Tbl 06MAHllluK, BOT Tbl KTO!  |  <yes> YES | <no> NO}"];
+Nodec480b7c0
+[shape = record, color = green,  label = "{ <adr> TBOu JlI06uMblu D0H0B :)  |  <yes> YES | <no> NO}"];
+Nodec480b800
+[shape = record, color = green,  label = "{ <adr> KoTuK  |  <yes> YES | <no> NO}"];
+Nodec480ad60
+[shape = record, color = green,  label = "{ <adr> B0JlK_u3_Hy_II0r0gu  |  <yes> YES | <no> NO}"];
+Nodec480bbf0
+[shape = record, color = black,  label = "{ <adr> PTshnik?  |  <yes> YES | <no> NO}"];
+Nodec480bbf0 : <yes> -> Nodec480b250 : <adr> [color = green];
+Nodec480bbf0 : <no> -> Nodec480b100 : <adr> [color = blue];
+Nodec480b100
+[shape = record, color = green,  label = "{ <adr> IIyTuH  |  <yes> YES | <no> NO}"];
+Nodec480b250
+[shape = record, color = green,  label = "{ <adr> CAH9  |  <yes> YES | <no> NO}"];
+Nodec480a7a0
+[shape = record, color = green,  label = "{ <adr> KOP9BOB  |  <yes> YES | <no> NO}"];
+Nodec480a8f0
+[shape = record, color = black,  label = "{ <adr> Uchitel shkoly 17  |  <yes> YES | <no> NO}"];
+Nodec480a8f0 : <yes> -> Nodec4809f90 : <adr> [color = green];
+Nodec480a8f0 : <no> -> Nodec4809e40 : <adr> [color = blue];
+Nodec4809e40
+[shape = record, color = green,  label = "{ <adr> BJlAguCJlAB_AJlEKCAHgP0Bu4  |  <yes> YES | <no> NO}"];
+Nodec4809f90
+[shape = record, color = green,  label = "{ <adr> Valyeryy Alexyeyevich  |  <yes> YES | <no> NO}"];
+Nodec480a2f0
+[shape = record, color = black,  label = "{ <adr> BegeT_MATAH  |  <yes> YES | <no> NO}"];
+Nodec480a2f0 : <yes> -> Nodec480c300 : <adr> [color = green];
+Nodec480a2f0 : <no> -> Nodec480a440 : <adr> [color = blue];
+Nodec480a440
+[shape = record, color = black,  label = "{ <adr> BegeT AHrEM  |  <yes> YES | <no> NO}"];
+Nodec480a440 : <yes> -> Nodec480c1b0 : <adr> [color = green];
+Nodec480a440 : <no> -> Nodec4806850 : <adr> [color = blue];
+Nodec4806850
+[shape = record, color = black,  label = "{ <adr> BEgET_uHTEPHET_yPOKu  |  <yes> YES | <no> NO}"];
+Nodec4806850 : <yes> -> Nodec480bc30 : <adr> [color = green];
+Nodec4806850 : <no> -> Nodec48069a0 : <adr> [color = blue];
+Nodec48069a0
+[shape = record, color = green,  label = "{ <adr> Paur0P  |  <yes> YES | <no> NO}"];
+Nodec480bc30
+[shape = record, color = green,  label = "{ <adr> BJlAguMuP_3JlATK0Bu4  |  <yes> YES | <no> NO}"];
+Nodec480c1b0
+[shape = record, color = green,  label = "{ <adr> ZHeCTK0B  |  <yes> YES | <no> NO}"];
+Nodec480c300
+[shape = record, color = green,  label = "{ <adr> r0Jly60B  |  <yes> YES | <no> NO}"];
+Nodec480c770
+[shape = record, color = black,  label = "{ <adr> CTAPblu  |  <yes> YES | <no> NO}"];
+Nodec480c770 : <yes> -> Nodec4809990 : <adr> [color = green];
+Nodec480c770 : <no> -> Nodec480c8c0 : <adr> [color = blue];
+Nodec480c8c0
+[shape = record, color = black,  label = "{ <adr> Krovnyy rodstvenni vashey mamy  |  <yes> YES | <no> NO}"];
+Nodec480c8c0 : <yes> -> Nodec480bcb0 : <adr> [color = green];
+Nodec480c8c0 : <no> -> Nodec480bc70 : <adr> [color = blue];
+Nodec480bc70
+[shape = record, color = green,  label = "{ <adr> TBOu 6AT9  |  <yes> YES | <no> NO}"];
+Nodec480bcb0
+[shape = record, color = green,  label = "{ <adr> Vash dyadya  |  <yes> YES | <no> NO}"];
+Nodec4809990
+[shape = record, color = green,  label = "{ <adr> ded  |  <yes> YES | <no> NO}"];
+
+}

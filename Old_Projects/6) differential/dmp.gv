@@ -1,0 +1,17 @@
+digraph G {
+Node0x55ac354f4b50
+[shape = record, color = black,  label = "{ <adr> 0x55ac354f4b50 | DATA: 6.000000  (sin) | Node_type: Func |  Canary1:   sin \l Canary2:   sin \l Should be: sin | <left> LEFT:  0x55ac354f4b00 | <rght> RIGHT:  (nil) | <prnt> Parent:  (nil)}"];
+Node0x55ac354f4b50 : <left> -> Node0x55ac354f4b00 : <adr> [color = blue];
+Node0x55ac354f4b00
+[shape = record, color = black,  label = "{ <adr> 0x55ac354f4b00 | DATA: 5.000000  (^) | Node_type: Func |  Canary1:   degrdegr \l Canary2:   degr \l Should be: degr | <left> LEFT:  0x55ac354f4a60 | <rght> RIGHT:  0x55ac354f4ab0 | <prnt> Parent:  0x55ac354f4b50}"];
+Node0x55ac354f4b00 : <left> -> Node0x55ac354f4a60 : <adr> [color = blue];
+Node0x55ac354f4b00 : <rght> -> Node0x55ac354f4ab0 : <adr> [color = green];
+Node0x55ac354f4b00 : <prnt> -> Node0x55ac354f4b50 : <adr> [color = gray];
+Node0x55ac354f4ab0
+[shape = record, color = green,  label = "{ <adr> 0x55ac354f4ab0 | DATA: 1.000000  | Node_type: Cnst |  Canary1:   num \l Canary2:   num \l Should be: num | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x55ac354f4b00}"];
+Node0x55ac354f4ab0 : <prnt> -> Node0x55ac354f4b00 : <adr> [color = gray];
+Node0x55ac354f4a60
+[shape = record, color = green,  label = "{ <adr> 0x55ac354f4a60 | DATA: 0.000000 \l (x) | Node_type: Vrbl |  Canary1:   vrblvrbl \l Canary2:   vrbl \l Should be: vrbl | <left> LEFT:  (nil) | <rght> RIGHT:  (nil) | <prnt> Parent:  0x55ac354f4b00}"];
+Node0x55ac354f4a60 : <prnt> -> Node0x55ac354f4b00 : <adr> [color = gray];
+
+}

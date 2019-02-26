@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1513034365 source:/home/negawisp/Projects/differential/main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"tree.h"
+	"differential.h"
+
+1513034597 /home/negawisp/Projects/differential/tree.h
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"functions_list.h"
+
+1513030567 /home/negawisp/Projects/differential/functions_list.h
+
+1513034012 /home/negawisp/Projects/differential/differential.h
+	<math.h>
+	"functions_list.h"
+	"functions_list.h"
+	"functions_list.h"
+	"functions_list.h"
+
