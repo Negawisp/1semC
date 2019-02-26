@@ -8,4 +8,4 @@ Legacy projects written when I was learning how to properly use C.
   5) Akinator game
   6) Differentiator
  
-You can go to 'Binary translator' repository to see assembler, CPU emulator and compiler projects.
+You can go to 'Language' repository to see assembler, CPU emulator and compiler projects.
